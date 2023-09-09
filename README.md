@@ -44,7 +44,7 @@ Here's a *summary* of the code for landslide detection using Gradient Boosting M
 This code appears to be a comprehensive data analysis and preprocessing script for landslide detection, including EDA, feature engineering, feature selection using PCA, and visualization of data and results. It also uses various machine learning libraries for analysis and modeling, with a focus on Gradient Boosting for classification.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-***PROCESS***
+# ***PROCESS***
 
 🔍**Data Preprocessing**
 Objective: Prepare the dataset for model training.
