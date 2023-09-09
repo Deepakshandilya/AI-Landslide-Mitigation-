@@ -1,4 +1,5 @@
 # AI-Landslide-Mitigation-
+Run on Kaggle : https://www.kaggle.com/deepakshandilyaa/ai-landslide-mitigation
 Here's a *summary* of the code for landslide detection using Gradient Boosting Machines (GBM) along with explanations for each section of the code:
 
 1. **Import Libraries**: Import necessary libraries such as NumPy, pandas, scikit-learn, Matplotlib, Seaborn, and others for data analysis and machine learning.
