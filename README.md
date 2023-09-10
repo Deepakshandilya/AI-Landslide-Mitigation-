@@ -1,7 +1,10 @@
 # AI-Landslide-Mitigation-
 Run on Kaggle : https://www.kaggle.com/deepakshandilyaa/ai-landslide-mitigation
-Here's a *summary* of the code for landslide detection using Gradient Boosting Machines (GBM) along with explanations for each section of the code:
+Here's a *summary of the code* for **landslide detection using Gradient Boosting Machines (GBM)** With **Accuracy of *81.9*** along with explanations for each section of the code:
 
+## Accuracy of 81.9
+![accuracyGBM](https://github.com/Deepakshandilya/AI-Landslide-Mitigation-/assets/103075634/a60d271c-95c1-4551-9e92-0b8243041918)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. **Import Libraries**: Import necessary libraries such as NumPy, pandas, scikit-learn, Matplotlib, Seaborn, and others for data analysis and machine learning.
 
 2. **Define File Path**: Set the file path to the location of your dataset, which appears to be a Jupyter Notebook file (`iit-mandi.ipynb`) on your desktop.
