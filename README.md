@@ -1,4 +1,4 @@
-# AI-Landslide-Mitigation-
+# AI-Landslide-Mitigation- 
 Run on Kaggle : https://www.kaggle.com/deepakshandilyaa/ai-landslide-mitigation
 Here's a *summary of the code* for **landslide detection using Gradient Boosting Machines (GBM)** With **Accuracy of *81.9*** along with explanations for each section of the code:
 
